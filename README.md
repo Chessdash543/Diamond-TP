@@ -13,6 +13,10 @@
 
   <img src="https://img.shields.io/github/downloads/Chessdash543/Diamond-TP/latest/total?style=for-the-badge&color=orange" alt="Latest release downloads">
 
+  <a href="https://discord.gg/XgNRtTFjbh">
+    <img src="https://img.shields.io/discord/1195179573122445312?style=for-the-badge&label=Discord&logo=discord&color=7289DA" alt="Discord">
+  </a>
+
 </div>
 
 <div align="center">
