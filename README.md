@@ -6,8 +6,6 @@
 </a>
 <img src="https://img.shields.io/github/downloads/Chessdash543/Diamond-TP/total" alt="Total downloads">
 <img src="https://img.shields.io/github/downloads/Chessdash543/Diamond-TP/latest/total" alt="Latest release downloads">
-<a href="LICENSE">
-  <img src="https://img.shields.io/github/license/Chessdash543/Diamond-TP" alt="License">
 </a>
 
 </div>
