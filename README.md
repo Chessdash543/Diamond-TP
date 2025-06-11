@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Sua imagem -->
+  <!-- Imagem centralizada -->
   <img src="https://raw.githubusercontent.com/Chessdash543/Diamond-TP/main/logo.png" alt="Logo Diamond TP" width="120" />
 
   <br><br>
@@ -16,7 +16,7 @@
 
   <br><br>
 
-  <!-- Botão de download -->
+  <!-- Botão DOWNLOAD -->
   <a href="https://github.com/Chessdash543/Diamond-TP/releases/latest" 
      style="
        display: inline-block;
