@@ -1,5 +1,5 @@
 <div align="center">
-  <h3># Diamond TP</h3>
+  <h3>Diamond TP</h3>
 </div>
 <br><br>
 
