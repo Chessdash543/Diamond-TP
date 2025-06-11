@@ -1,4 +1,6 @@
-# My Best Texture
+<div align="center">
+  <h3># Diamond TP</h3>
+</div>
 <br><br>
 
 <div align="center">
