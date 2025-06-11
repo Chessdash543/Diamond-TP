@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/be43c169-5673-4613-b84c-1a0c77d1e1da" alt="pack" width="120" />
+  <img src="https://github.com/Chessdash543/Diamond-TP/blob/Lobby/pack.png?raw=true" alt="pack" width="120" />
 </div>
-
 <br><br>
 
 <div align="center">
