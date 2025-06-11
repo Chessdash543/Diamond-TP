@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/github/downloads/Chessdash543/Diamond-TP/latest/total?style=for-the-badge&color=orange" alt="Latest release downloads">
 
 </div>
-# Enter in [My Server](https://discord.gg/XgNRtTFjbh)!
+![pack](https://github.com/user-attachments/assets/629ba374-3e43-4f88-9bc5-359dc30d94b4)
