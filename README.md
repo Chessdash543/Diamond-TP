@@ -14,3 +14,7 @@
 <div align="center">
   <img src="https://github.com/Chessdash543/Diamond-TP/blob/Lobby/pack.png?raw=true" alt="pack" width="120" />
 </div>
+<div align="center">
+  <img src="https://github.com/Chessdash543/Diamond-TP/blob/Lobby/pack.png?raw=true" alt="pack" width="120" />
+  <h3>Diamond TP</h3>
+</div>
